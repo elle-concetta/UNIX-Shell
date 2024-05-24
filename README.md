@@ -50,8 +50,8 @@ ls -l | less
 ```
 
 ## Demo
-
-![Demo](https://github.com/elle-concetta/UNIX-Simple-Shell/blob/main/random/shell.gif)
+![Demo]
+<img src="https://github.com/elle-concetta/UNIX-Simple-Shell/blob/main/random/shell.gif" width="400">
 
 ### UNIX Simple Shell
 
