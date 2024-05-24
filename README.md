@@ -1,12 +1,4 @@
-Name: Elizabeth Fassler
-
-*Programming Assignment 1*
-
-COP 4610 1245 - Summer 2024
-
-Professor Kiavash Bahreini
-
-PID: 6336712
+## UNIX SIMPLE SHELL
 
 ### Commands
 ```
