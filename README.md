@@ -49,6 +49,10 @@ sort < random/number.txt
 ls -l | less
 ```
 
+## Demo
+
+![Demo](https://github.com/username/repository/raw/main/images/example.gif)
+
 ### UNIX Simple Shell
 
 This project consists of designing a C program to serve as a shell interface that accepts user commands
