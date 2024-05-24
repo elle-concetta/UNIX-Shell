@@ -51,7 +51,7 @@ ls -l | less
 
 ## Demo
 
-![Demo](https://github.com/username/repository/raw/main/images/example.gif)
+![Demo](https://github.com/elle-concetta/UNIX-Simple-Shell/blob/main/random/shell.gif)
 
 ### UNIX Simple Shell
 
