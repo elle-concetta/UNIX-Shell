@@ -1,4 +1,4 @@
-## UNIX SIMPLE SHELL
+# UNIX SIMPLE SHELL
 
 ### Commands
 ```
